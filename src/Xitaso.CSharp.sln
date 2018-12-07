@@ -7,6 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xitaso.CSharp", "Xitaso.CSh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xitaso.CSharp.Tests", "..\Xitaso.CSharp.Tests\Xitaso.CSharp.Tests.csproj", "{B634BA75-8AC4-46FE-A8FE-569BFB23437F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{FD2627C9-FDD9-4A88-8103-B8E3DBEBBB22}"
+	ProjectSection(SolutionItems) = preProject
+		index.md = index.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
